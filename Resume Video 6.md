@@ -19,5 +19,5 @@
 ![Gambar 4](/img/v6-4.png "Gambar 4")
 ![Gambar 5](/img/v6-5.png "Gambar 5")
   
-2. Three-way Merge
+2. Three-way Merge, ketika branch yang ingin digabungkan tidak berada pada jalur yang langsung
 ![Gambar 6](/img/v6-6.png "Gambar 6")
