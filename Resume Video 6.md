@@ -16,8 +16,8 @@
   
 ### Jenis Merge
 1. Fast forward merge, ketika branch yang ingin digabungkan berada dalam jalur langsung/direct path
-[Gambar 4](/img/v6-4.png "Gambar 4")
-[Gambar 5](/img/v6-5.png "Gambar 5")
+![Gambar 4](/img/v6-4.png "Gambar 4")
+![Gambar 5](/img/v6-5.png "Gambar 5")
   
 2. Three-way Merge
-[Gambar 6](/img/v6-6.png "Gambar 6")
+![Gambar 6](/img/v6-6.png "Gambar 6")
