@@ -20,3 +20,11 @@
 2. Staging area -> Tempat perubahan disimpan dari working tree
 3. History -> Apabila perubahan sudah yakin ingin di-commit, maka akan masuk ke area history
 
+# Beberapa screenshoot dari kegiatan mencoba git di komputer
+![Gambar 1!](/img/2023-02-05.png "Gambar 1")
+
+![Gambar 2!](/img/1.png "Gambar 2")
+
+![Gambar 3!](/img/2.png "Gambar 3")
+
+![Gambar 4!](/img/3.png "Gambar 4")
